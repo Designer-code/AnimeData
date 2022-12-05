@@ -4,10 +4,10 @@
       {
 		  
         "BannerAd": "facebook",
-        "NativeAd": "max",
+        "NativeAd": "admob",
 	      
 	"InterAdsAc0": "max",
-	"InterAdsAc1": "max",
+	"InterAdsAc1": "admob",
 	"InterAdsAc2": "max",
 	"InterAdsAc3": "max",
 
