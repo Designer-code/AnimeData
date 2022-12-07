@@ -2,28 +2,28 @@
   "GuideData": {
     "AdsController": {
 
-	 "BannerAdsAc1": "max",
-	 "BannerAdsAc2": "max",
+	 "BannerAdsAc1": "facebook",
+	 "BannerAdsAc2": "admob",
 	 "BannerAdsAc3": "max",
+	 "BannerAdsAc4": "facebook",
 	    
-	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "max",
+	 "InterAdsAc1": "facebook",
+	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
-	 "InterAdsAc4": "max",
+	 "InterAdsAc4": "facebook",
 	    
-	 "NativeAdsAc1": "max",
-	 "NativeAdsAc2": "max",
+	 "NativeAdsAc1": "facebook",
+	 "NativeAdsAc2": "admob",
 	 "NativeAdsAc3": "max",
-	 "NativeAdsAc4": "max",
-	 "NativeAdsAc5": "max",
+	 "NativeAdsAc4": "facebook",
 		
-        "BannerAdmob": "ca-app-pub-6044032961852562/9289583576",
-        "InterAdmob": "ca-app-pub-6044032961852562/8879316195",
-        "NativeAdmob": "ca-app-pub-6044032961852562/9765307869",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner" : "1f8e7f6aa7983808",
-		"MaxInter" :  "438ab295a6640bd8",
-		"MaxNative" : "baaec6dcbb3819d0",
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
 	    
        "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
