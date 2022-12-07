@@ -6,10 +6,10 @@
 	 "BannerAdsAc2": "facebook",
 	 "BannerAdsAc3": "admob",
 	    
-	 "InterAdsAc0": "facebook",
-	 "InterAdsAc1": "admob",
-	 "InterAdsAc2": "max",
+	 "InterAdsAc1": "facebook",
+	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
+	 "InterAdsAc4": "max",
 	    
 	 "NativeAdsAc1": "admob",
 	 "NativeAdsAc2": "max",
