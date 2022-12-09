@@ -4,10 +4,10 @@
       {
 		  
         "BannerAd": "admob",
-        "NativeAd": "admob",
+        "NativeAd": "max",
 	      
 	"InterAdsAc0": "max",
-	"InterAdsAc1": "admob",
+	"InterAdsAc1": "max",
 	"InterAdsAc2": "max",
 	"InterAdsAc3": "max",
 
