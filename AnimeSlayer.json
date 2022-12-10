@@ -7,13 +7,13 @@
 	 "BannerAdsAc3": "admob",
 	    
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "max",
+	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
 	 "InterAdsAc4": "max",
 	    
-	 "NativeAdsAc1": "max",
+	 "NativeAdsAc1": "admob",
 	 "NativeAdsAc2": "max",
-	 "NativeAdsAc3": "max",
+	 "NativeAdsAc3": "admob",
 	 "NativeAdsAc4": "max",
 	 "NativeAdsAc5": "max",
 		
