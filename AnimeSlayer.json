@@ -3,19 +3,19 @@
     "AdsController": {
 
 	 "BannerAdsAc1": "admob",
-	 "BannerAdsAc2": "admob",
+	 "BannerAdsAc2": "facebook",
 	 "BannerAdsAc3": "admob",
 	    
 	 "InterAdsAc1": "max",
 	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
-	 "InterAdsAc4": "max",
+	 "InterAdsAc4": "facebook",
 	    
 	 "NativeAdsAc1": "admob",
 	 "NativeAdsAc2": "max",
-	 "NativeAdsAc3": "admob",
+	 "NativeAdsAc3": "facebook",
 	 "NativeAdsAc4": "max",
-	 "NativeAdsAc5": "admob",
+	 "NativeAdsAc5": "facebook",
 		
         "BannerAdmob": "ca-app-pub-6044032961852562/8538006620",
         "InterAdmob": "ca-app-pub-6044032961852562/5911843280",
