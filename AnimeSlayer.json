@@ -2,20 +2,20 @@
   "GuideData": {
     "AdsController": {
 
-	 "BannerAdsAc1": "admob",
-	 "BannerAdsAc2": "facebook",
-	 "BannerAdsAc3": "admob",
+	 "BannerAdsAc1": "max",
+	 "BannerAdsAc2": "max",
+	 "BannerAdsAc3": "max",
 	    
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "admob",
+	 "InterAdsAc2": "max",
 	 "InterAdsAc3": "max",
-	 "InterAdsAc4": "facebook",
+	 "InterAdsAc4": "max",
 	    
-	 "NativeAdsAc1": "admob",
+	 "NativeAdsAc1": "max",
 	 "NativeAdsAc2": "max",
-	 "NativeAdsAc3": "facebook",
+	 "NativeAdsAc3": "max",
 	 "NativeAdsAc4": "max",
-	 "NativeAdsAc5": "facebook",
+	 "NativeAdsAc5": "max",
 		
         "BannerAdmob": "ca-app-pub-6044032961852562/8538006620",
         "InterAdmob": "ca-app-pub-6044032961852562/5911843280",
